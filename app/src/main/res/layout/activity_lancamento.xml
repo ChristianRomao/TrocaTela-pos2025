@@ -52,16 +52,14 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:onClick="btConfirmarOnClick"
-            android:text="@string/confirmar"
-            tools:ignore="OnClick" />
+            android:text="@string/confirmar" />
 
         <Button
             android:id="@+id/btListar"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:onClick="btListarOnClick"
-            android:text="@string/listar"
-            tools:ignore="OnClick" />
+            android:text="@string/listar"/>
 
     </LinearLayout>
 
